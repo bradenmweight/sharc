@@ -1,0 +1,1 @@
+python /scratch/bweight/sharc-2.0/bin/wigner.py -n 1000 ethylene.molden
