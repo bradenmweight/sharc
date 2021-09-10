@@ -38,6 +38,7 @@ directory structure:
 * doc:          the documentation (manual and tutorial)
 * tests:        a test suite to check the installation.  
 * examples:     documented example inputs for quantum chemistry interfaces
+* SQC_Examples  examples for generating initconds and running SQC dynamics
 * pysharc:      source code for the PySHARC extension of SHARC
 * lib:          Python libraries for some SHARC components
 * wfoverlap:    wave function overlap program (with source/ and scripts/ directories)
