@@ -48,3 +48,20 @@ Wahringer Straße 17
 
 Website: http://sharc-md.org
 Email: sharc@univie.ac.at
+
+The extension of this package to include quasi-diabatic 
+implementations of various diabatic NADM methods such as
+SQC, PLDM, and spin-PLDM are attrubuted to the following
+authors:
+
+Braden M. Weight (bweight@ur.rochester.edu)
+Arkajit Mandal
+Wanghuai Zhou
+
+
+
+
+
+
+
+
