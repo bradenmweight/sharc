@@ -48,3 +48,6 @@ version 2.0
         major changes (see manual)
 version 2.1
         major changes (see manual)
+	
+version 2.0-QD-SQC
+	Reverted back to version 2.0 but added QD-SQC methods to implementation. See SQC Example folder.
