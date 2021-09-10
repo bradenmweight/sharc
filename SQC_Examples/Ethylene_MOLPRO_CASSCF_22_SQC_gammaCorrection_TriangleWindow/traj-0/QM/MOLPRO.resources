@@ -1,0 +1,8 @@
+molpro $MOLPRO/
+scratchdir /scratch/bweight/qd-sqc/runs/Ethylene/gamma-corrected_test/traj-0/temp
+savedir /scratch/bweight/qd-sqc/runs/Ethylene/gamma-corrected_test/traj-0/restart
+gradaccudefault 0.00000010
+gradaccumax 0.000100
+memory 20000
+ncpu 1
+wfoverlap $SHARC/wfoverlap.x
