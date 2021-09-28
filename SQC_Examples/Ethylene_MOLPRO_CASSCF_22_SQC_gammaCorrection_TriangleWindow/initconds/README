@@ -1,0 +1,7 @@
+THIS STEP IS NOT CURRENTLY UPDATED. COMING SOON. ~ BMW ~
+
+
+Step 1: Produce optimized structure either with SHARC or your favorite electronic structure code (i.e., Gaussian, Quantum Espresso, etc.)
+        This step is optional since the next step automatically optimizes the structure, but this is done at the MP2 level, which is fairly expensive.
+
+Step 2: 
